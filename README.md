@@ -24,18 +24,14 @@ The app uses the **7-day moving average** of the closing price as input to a **l
 
 ## 🖥️ Demo
 
-Try the live app here 👉 [streamlit-app-link](https://your-username-stock-price-prediction.streamlit.app) *(replace with your actual link)*
-
-## 📸 Screenshots
-
-![App Screenshot](https://your-screenshot-link.com/preview.png) *(optional)*
+Try the live app here 👉 [streamlit-app-link](https://stock-price-prediction-mbcykgzj4ddlhdcvsrbfbl.streamlit.app/#price-chart-with-7-day-moving-average)
 
 ## 🛠️ Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/stock-price-prediction.git
+git clone https://github.com/teddy-cj/stock-price-prediction.git
 cd stock-price-prediction
 
 2. Install dependencies:
@@ -70,11 +66,6 @@ MSFT – Microsoft Corp.
 
 🙋‍♂️ Author
 Tedla Tesfaye
-Data Science Intern | Aspiring ML Engineer
-LinkedIn • GitHub
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-yaml
-Copy code
